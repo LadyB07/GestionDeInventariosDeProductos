@@ -1,0 +1,14 @@
+C:\Users\LABORATORIO-1\Documents\Lady\GestionDeInventariosDeProductos\bin\Debug\net7.0\GestionDeInventariosDeProductos.exe
+C:\Users\LABORATORIO-1\Documents\Lady\GestionDeInventariosDeProductos\bin\Debug\net7.0\GestionDeInventariosDeProductos.deps.json
+C:\Users\LABORATORIO-1\Documents\Lady\GestionDeInventariosDeProductos\bin\Debug\net7.0\GestionDeInventariosDeProductos.runtimeconfig.json
+C:\Users\LABORATORIO-1\Documents\Lady\GestionDeInventariosDeProductos\bin\Debug\net7.0\GestionDeInventariosDeProductos.dll
+C:\Users\LABORATORIO-1\Documents\Lady\GestionDeInventariosDeProductos\bin\Debug\net7.0\GestionDeInventariosDeProductos.pdb
+C:\Users\LABORATORIO-1\Documents\Lady\GestionDeInventariosDeProductos\obj\Debug\net7.0\GestionDeInventariosDeProductos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LABORATORIO-1\Documents\Lady\GestionDeInventariosDeProductos\obj\Debug\net7.0\GestionDeInventariosDeProductos.AssemblyInfoInputs.cache
+C:\Users\LABORATORIO-1\Documents\Lady\GestionDeInventariosDeProductos\obj\Debug\net7.0\GestionDeInventariosDeProductos.AssemblyInfo.cs
+C:\Users\LABORATORIO-1\Documents\Lady\GestionDeInventariosDeProductos\obj\Debug\net7.0\GestionDeInventariosDeProductos.csproj.CoreCompileInputs.cache
+C:\Users\LABORATORIO-1\Documents\Lady\GestionDeInventariosDeProductos\obj\Debug\net7.0\GestionDeInventariosDeProductos.dll
+C:\Users\LABORATORIO-1\Documents\Lady\GestionDeInventariosDeProductos\obj\Debug\net7.0\refint\GestionDeInventariosDeProductos.dll
+C:\Users\LABORATORIO-1\Documents\Lady\GestionDeInventariosDeProductos\obj\Debug\net7.0\GestionDeInventariosDeProductos.pdb
+C:\Users\LABORATORIO-1\Documents\Lady\GestionDeInventariosDeProductos\obj\Debug\net7.0\GestionDeInventariosDeProductos.genruntimeconfig.cache
+C:\Users\LABORATORIO-1\Documents\Lady\GestionDeInventariosDeProductos\obj\Debug\net7.0\ref\GestionDeInventariosDeProductos.dll
